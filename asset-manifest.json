@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/peerjs-custom-server/static/css/main.050523cc.chunk.css",
-    "main.js": "/peerjs-custom-server/static/js/main.d2de6209.chunk.js",
-    "main.js.map": "/peerjs-custom-server/static/js/main.d2de6209.chunk.js.map",
+    "main.js": "/peerjs-custom-server/static/js/main.bedbf88a.chunk.js",
+    "main.js.map": "/peerjs-custom-server/static/js/main.bedbf88a.chunk.js.map",
     "runtime-main.js": "/peerjs-custom-server/static/js/runtime-main.77f86a30.js",
     "runtime-main.js.map": "/peerjs-custom-server/static/js/runtime-main.77f86a30.js.map",
-    "static/js/2.40380b55.chunk.js": "/peerjs-custom-server/static/js/2.40380b55.chunk.js",
-    "static/js/2.40380b55.chunk.js.map": "/peerjs-custom-server/static/js/2.40380b55.chunk.js.map",
+    "static/js/2.cf03a0a8.chunk.js": "/peerjs-custom-server/static/js/2.cf03a0a8.chunk.js",
+    "static/js/2.cf03a0a8.chunk.js.map": "/peerjs-custom-server/static/js/2.cf03a0a8.chunk.js.map",
     "index.html": "/peerjs-custom-server/index.html",
-    "precache-manifest.a3585f1eb49f0cf6d3487d6d12d22d57.js": "/peerjs-custom-server/precache-manifest.a3585f1eb49f0cf6d3487d6d12d22d57.js",
+    "precache-manifest.ba81b3d93fac4d5d2c3ab718643942f4.js": "/peerjs-custom-server/precache-manifest.ba81b3d93fac4d5d2c3ab718643942f4.js",
     "service-worker.js": "/peerjs-custom-server/service-worker.js",
     "static/css/main.050523cc.chunk.css.map": "/peerjs-custom-server/static/css/main.050523cc.chunk.css.map",
-    "static/js/2.40380b55.chunk.js.LICENSE.txt": "/peerjs-custom-server/static/js/2.40380b55.chunk.js.LICENSE.txt",
+    "static/js/2.cf03a0a8.chunk.js.LICENSE.txt": "/peerjs-custom-server/static/js/2.cf03a0a8.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/peerjs-custom-server/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.77f86a30.js",
-    "static/js/2.40380b55.chunk.js",
+    "static/js/2.cf03a0a8.chunk.js",
     "static/css/main.050523cc.chunk.css",
-    "static/js/main.d2de6209.chunk.js"
+    "static/js/main.bedbf88a.chunk.js"
   ]
 }

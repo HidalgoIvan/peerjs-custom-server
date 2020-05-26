@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c5998074c03a56e29a2e0293dc6dd568",
+    "revision": "b1b6794b5f71f2b47f3e3282532532c3",
     "url": "/peerjs-custom-server/index.html"
   },
   {
-    "revision": "52c6b97a790018ef400d",
+    "revision": "27c352d2c630bd3aff9d",
     "url": "/peerjs-custom-server/static/css/main.050523cc.chunk.css"
   },
   {
-    "revision": "3bfbadb68b344492dfc4",
-    "url": "/peerjs-custom-server/static/js/2.40380b55.chunk.js"
+    "revision": "b87fb8816170b11a78b9",
+    "url": "/peerjs-custom-server/static/js/2.cf03a0a8.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/peerjs-custom-server/static/js/2.40380b55.chunk.js.LICENSE.txt"
+    "url": "/peerjs-custom-server/static/js/2.cf03a0a8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "52c6b97a790018ef400d",
-    "url": "/peerjs-custom-server/static/js/main.d2de6209.chunk.js"
+    "revision": "27c352d2c630bd3aff9d",
+    "url": "/peerjs-custom-server/static/js/main.bedbf88a.chunk.js"
   },
   {
     "revision": "c113202179e69983dbe6",
