@@ -1,10 +1,9 @@
 import React from "react";
 import logo from "./logo.svg";
 import "./App.css";
+var cmd = require("node-cmd");
 
 function App() {
-	var cmd = require("node-cmd");
-
 	cmd.get("peerjs --port 9000 --key peerjs --path /server", function (
 		err,
 		data,
