@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/peerjs-custom-server/static/css/main.5f361e03.chunk.css",
+    "main.js": "/peerjs-custom-server/static/js/main.72b01435.chunk.js",
+    "main.js.map": "/peerjs-custom-server/static/js/main.72b01435.chunk.js.map",
+    "runtime-main.js": "/peerjs-custom-server/static/js/runtime-main.77f86a30.js",
+    "runtime-main.js.map": "/peerjs-custom-server/static/js/runtime-main.77f86a30.js.map",
+    "static/js/2.5d6472b4.chunk.js": "/peerjs-custom-server/static/js/2.5d6472b4.chunk.js",
+    "static/js/2.5d6472b4.chunk.js.map": "/peerjs-custom-server/static/js/2.5d6472b4.chunk.js.map",
+    "index.html": "/peerjs-custom-server/index.html",
+    "precache-manifest.2784dabafd34cda84a745145669fb5e8.js": "/peerjs-custom-server/precache-manifest.2784dabafd34cda84a745145669fb5e8.js",
+    "service-worker.js": "/peerjs-custom-server/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/peerjs-custom-server/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.5d6472b4.chunk.js.LICENSE.txt": "/peerjs-custom-server/static/js/2.5d6472b4.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/peerjs-custom-server/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77f86a30.js",
+    "static/js/2.5d6472b4.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.72b01435.chunk.js"
+  ]
+}
